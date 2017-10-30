@@ -2,6 +2,7 @@
 # robots can surpass humans
 # hello robo
 # hi robo
+# we are good with robot
 # www.robotstxt.org/
 
 # Allow crawling of all content
